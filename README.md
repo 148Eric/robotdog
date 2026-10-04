@@ -1,4 +1,4 @@
-# 🐕 12-DOF Quadruped Robot Dog
+# 12-DOF Quadruped Robot Dog
 
 A personal DIY robot dog project built for fun during uni! It runs on an **STM32G474** board, using custom embedded C/C++ firmware, inverse kinematics, and IMU balance control.
 
